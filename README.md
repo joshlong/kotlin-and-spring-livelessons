@@ -5,11 +5,13 @@
 * A Tour of the Ecosystem 
 
 ## Kotlin, the Language
-* Basics
-* DSLs
+* Syntax
 * Coroutines
 
 ## Kotlin as a Better Java 
+* Motivations
+* JdbcTemplate
+* Exposed ORM 
 
 ## Kotlin DSLs and Spring 
 
