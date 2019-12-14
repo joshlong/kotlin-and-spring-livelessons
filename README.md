@@ -14,5 +14,11 @@
 * Exposed ORM 
 
 ## Kotlin DSLs and Spring 
+* Motivations
+* Reactive Web 
+* Gateway 
+* Functional Configuration 
+* Spring Fu 
 
-## 
+
+
